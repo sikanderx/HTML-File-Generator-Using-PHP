@@ -1,4 +1,1 @@
-# HTML-File-Generator-Using-PHP
-Generate .html file using PHP
-
-NOTE: The code contains the bootstrap, font-awesome & jQuery CDN link.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iSikanderShaikh&repo=HTML-File-Generator-Using-PHP)](https://github.com/iSikanderShaikh/HTML-File-Generator-Using-PHP)
